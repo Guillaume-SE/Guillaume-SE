@@ -15,4 +15,4 @@ I enjoy creating simple, intuitive web applications and solving problems!
 
 ## My actual project
 
-[Codex](https://github.com/Guillaume-SE/Codex)
+Take a look on [Codex](https://github.com/Guillaume-SE/Codex) :sunglasses:
