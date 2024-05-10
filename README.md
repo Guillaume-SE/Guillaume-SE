@@ -17,4 +17,4 @@ I enjoy creating simple, intuitive web applications and solving problems!
 
 Take a look on [Codex](https://github.com/Guillaume-SE/Codex) :sunglasses:
 
-![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXF2MTg2YjJiNmY1bDFkMmp5cmd4bGtpeDNjeHVwcWR3cXBhbmp1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xWMPYx55WNhX136T0V/giphy.gif)
+![waneella-1](https://github.com/Guillaume-SE/Guillaume-SE/assets/100344718/13cedf52-bd1b-4dcb-b0e9-9d48bcf87b8f)
