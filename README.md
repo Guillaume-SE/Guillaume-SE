@@ -1,3 +1,5 @@
+<img src=https://github.com/Guillaume-SE/Guillaume-SE/assets/100344718/13cedf52-bd1b-4dcb-b0e9-9d48bcf87b8f height=100 width="500">
+
 # Hi there 👋
 
 My name is Guillaume from France and I'm a full stack web developer with a preference for the back end.  
@@ -18,4 +20,3 @@ I enjoy creating simple, intuitive web applications and solving problems!
 Take a look on [Codex](https://github.com/Guillaume-SE/Codex) :sunglasses:
 
 ![waneella-1](https://github.com/Guillaume-SE/Guillaume-SE/assets/100344718/13cedf52-bd1b-4dcb-b0e9-9d48bcf87b8f)
-<img src=https://github.com/Guillaume-SE/Guillaume-SE/assets/100344718/13cedf52-bd1b-4dcb-b0e9-9d48bcf87b8f height=100 width="250">
