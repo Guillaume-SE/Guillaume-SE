@@ -1,7 +1,6 @@
 <p align=center>
-  <img src=https://github.com/Guillaume-SE/Guillaume-SE/assets/100344718/51a2c67c-3468-455d-8c3b-ad50b9578dbc height="200" width=60%>
+  <img src=https://github.com/Guillaume-SE/Guillaume-SE/assets/100344718/c14262a1-3187-45dd-82cf-8e0d19c6f334 height="200" width=60%>
 </p>
-
 
 # Hi there 👋
 
