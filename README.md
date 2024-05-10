@@ -4,7 +4,7 @@ My name is Guillaume from France and I'm a full stack web developer with a prefe
 I love working with JavaScript, which gives me lots of possibilities.
 I enjoy creating simple, intuitive web applications and solving problems!
 
-## Top skills  
+## My top skills  
 
 ![Static Badge](https://img.shields.io/badge/html-FD501A?style=for-the-badge&logo=html5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/css-306AF1?style=for-the-badge&logo=css3&logoColor=white)
