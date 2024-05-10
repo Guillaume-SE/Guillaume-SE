@@ -1,5 +1,5 @@
 <p align=center>
-  <img src=https://github.com/Guillaume-SE/Guillaume-SE/assets/100344718/13cedf52-bd1b-4dcb-b0e9-9d48bcf87b8f height="200" width=600>
+  <img src=https://github.com/Guillaume-SE/Guillaume-SE/assets/100344718/13cedf52-bd1b-4dcb-b0e9-9d48bcf87b8f height="200" width=50%>
 </p>
 
 # Hi there 👋
