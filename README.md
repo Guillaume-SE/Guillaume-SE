@@ -1,7 +1,7 @@
 # Hi there 👋
 
-My name is Guillaume from France and I'm a web developer.
-I'm a full stack developer with a preference for the back end. I love working with JavaScript, which gives me lots of possibilities.
+My name is Guillaume from France and I'm a full stack web developer with a preference for the back end.  
+I love working with JavaScript, which gives me lots of possibilities.
 I enjoy creating simple, intuitive web applications and solving problems!
 
 ## Top skills  
