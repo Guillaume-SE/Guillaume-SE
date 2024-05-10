@@ -16,3 +16,5 @@ I enjoy creating simple, intuitive web applications and solving problems!
 ## My actual project
 
 Take a look on [Codex](https://github.com/Guillaume-SE/Codex) :sunglasses:
+
+(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXF2MTg2YjJiNmY1bDFkMmp5cmd4bGtpeDNjeHVwcWR3cXBhbmp1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xWMPYx55WNhX136T0V/giphy.gif)
