@@ -1,5 +1,5 @@
 <p align=center>
-  <img src=https://github.com/Guillaume-SE/Guillaume-SE/assets/100344718/9bcf62cf-1710-40f3-93b8-4d8c861e172c height="200" width=70%>
+  <img src=https://github.com/Guillaume-SE/Guillaume-SE/assets/100344718/9bcf62cf-1710-40f3-93b8-4d8c861e172c height="200" width=60%>
 </p>
 
 # Hi there 👋
@@ -19,4 +19,4 @@ I enjoy creating simple, intuitive web applications and solving problems!
 
 ## My actual project
 
-Take a look on [Codex](https://github.com/Guillaume-SE/Codex) :sunglasses:
+Take a look at [Codex](https://github.com/Guillaume-SE/Codex) :sunglasses:
