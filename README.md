@@ -2,6 +2,10 @@
   <img src=https://github.com/Guillaume-SE/Guillaume-SE/assets/100344718/9bcf62cf-1710-40f3-93b8-4d8c861e172c height="200" width=60%>
 </p>
 
+<p align=center>
+  <img src=https://github.com/Guillaume-SE/Guillaume-SE/assets/100344718/a4e1aa4c-48e2-48b7-bfe2-e6e288505e79 height="200" width=60%>
+</p>
+
 # Hi there 👋
 
 My name is Guillaume from France and I'm a full stack web developer with a preference for the back end.  
