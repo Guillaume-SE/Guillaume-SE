@@ -15,6 +15,7 @@ I enjoy creating simple, intuitive web applications and solving problems!
 ![Static Badge](https://img.shields.io/badge/typescript-387CC8?style=for-the-badge&logo=typescript&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/adonis-4031A9?style=for-the-badge&logo=adonisjs&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Vue.JS-68C575?style=for-the-badge&logo=vuedotjs&color=black)
 
 ## My actual project
 
